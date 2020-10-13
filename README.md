@@ -14,7 +14,7 @@
    git clone https://github.com/Benbinbin/Kitten-Pictures.git
    ```
 
-   或在下载坚果云上的项目压缩包：，并解压
+   或在坚果云 https://www.jianguoyun.com/p/DcJOCbgQjNDGBxil_sID 下载压缩包 `Kitten-Pictures`，并解压
 
 2. 打开 Chrome 浏览器（或运行在所有 webkit 内核的国产浏览器），切换到插件管理页面，可以直接在 Chrome 浏览器的地址栏输入 `chrome://extensions`
 
