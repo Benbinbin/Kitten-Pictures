@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "猫片",
+    "version": "1.0.0",
+    "description": "猫片 Kitten Pictures：一键将网站图片变成可爱的猫咪图片",
+    "icons": {
+        "500": "cat.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": ["kitten.js"]
+        }
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "browser_action":  {
+        "default_icon": "cat.png",
+        "default_title": "猫片-kitten-pictures"
+    }
+}
